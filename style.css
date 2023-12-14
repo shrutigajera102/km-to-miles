@@ -1,0 +1,33 @@
+div {
+    text-align: center;
+    background-color: brown;
+    width: 50%;
+    height: 50vh;
+    text-align: center;
+    margin: 100px;
+    margin-left: 25%;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#num {
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.bt {
+    width: 25%;
+    height: 5vh;
+    border-radius: 5px;
+    color: brown;
+    background-color: aliceblue;
+}
+label{
+    font-size: large;
+}
